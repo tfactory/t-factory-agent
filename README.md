@@ -4,14 +4,14 @@ t-factory-agent is the agent on every remote server that need to be managed by t
 For more information about the architecture of tFactory you can check out <https://github.com/tfactory>
 
 ## Table of contents
-* [Creator](#Creator)
-* [Installation](#Installation)
-* [Features](#Features)
-* [Contributing](#Contributing)
-* [Documentation](#Documentation)
-* [BugsAndFeatureRequests](#BugsAndFeatureRequests)
-* [Roadmap](#Roadmap)
-* [CopyrightAndLicense](#CopyrightAndLicense)
+* [Creator](#creator)
+* [Installation](#installation)
+* [Features](#features)
+* [Contributing](#contributing)
+* [Documentation](#documentation)
+* [BugsAndFeatureRequests](#bugsAndFeatureRequests)
+* [Roadmap](#roadmap)
+* [CopyrightAndLicense](#copyrightAndLicense)
 
 
 ##Creator
