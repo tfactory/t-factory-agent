@@ -1,4 +1,5 @@
 # t-factory-agent
+[![Gitter](https://img.shields.io/gitter/room/tfactory/tfactory.svg?style=flat-square)](https://gitter.im/tfactory/Lobby)
 
 t-factory-agent is the agent on every remote server that need to be managed by the t-Factory-Server.
 For more information about the architecture of tFactory you can check out <https://github.com/tfactory>
